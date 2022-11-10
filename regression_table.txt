@@ -1,0 +1,10 @@
+| name | age | city | name_ | age_ | city_ |
+| "name": | "age": | "city": | True, | string, | True |
+| "name": | "age": | "city": | null, | null, | null |
+| "name": | "age": | "city": | $#@%, | $#@%, | $#@% |
+| "name": | "age": | "city": |  , | 30, | New York |
+| "name": | "age": | "city": | John, |  , | New York |
+| "name": | "age": | "city": | John, | 30, |  |
+|  | "age": | "city": |   | 30, | New York |
+| "name": |  | "city": | John, |   | New York |
+| "name": | "age": |  | John, | 30, |  |
